@@ -2,9 +2,18 @@
 
 An AI vision project for warehouse counting, inventory visibility, and operational review.
 
-## Live Website
+## Public Case Study
+
+https://flashcoding.ca/projects/ai-camera-security-erp-monitoring-system/
+
+## Live Console
 
 https://warehousecamera.flashcoding.ca/
+
+## Built By
+
+Flash Coding  
+https://flashcoding.ca/
 
 ## Project Type
 
